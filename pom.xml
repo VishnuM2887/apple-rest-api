@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.vishnu.spring</groupId>
 	<artifactId>apple</artifactId>
-	<version>1.0</version>
+	<version>1.1</version>
 	<name>apple</name>
 	<description>REST API for Apple Products</description>
 	<properties>
